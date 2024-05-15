@@ -1,15 +1,13 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+### ClassCraft y TikTok a través de las Gafas de Manovich
+  
+**Autor**: *Sara Rustom Khanji*
+**Fecha**: *15/05/2024* 
 
-
-Autor: 
-
-
-Fecha: 
-
+*Cultura Digital - Grado en Técnicas de Interacción digital y multimedia*
+    
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
 
 
 ## Planteamiento
