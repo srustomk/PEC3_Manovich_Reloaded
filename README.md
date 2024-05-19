@@ -2,23 +2,27 @@
 
 ### ClassCraft y TikTok a través de las Gafas de Manovich
   
-**Autor**: *Sara Rustom Khanji*
-**Fecha**: *15/05/2024* 
+**Autor**: *Sara Rustom Khanji* - **Fecha**: *15/05/2024* 
 
 *Cultura Digital - Grado en Técnicas de Interacción digital y multimedia*
     
 ![Cultura Digital, visionando el futuro con las gafas de Manovich](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
-## Planteamiento
-
-En esta actividad nos vamos a enfocar en el proceso de **hibridación** de dos casos, nos pondremos las gafas de Manovich y analizaremos **ClassCraft** y **TikTok**.
+## INTRODUCCIÓN
+En esta actividad nos vamos a enfocar en el proceso de **hibridación** de dos casos, nos pondremos las "gafas de Manovich" y analizaremos **ClassCraft** y **TikTok**.
 
 Pero para empezar... **¿Qué es la hibridación?**
 
+La **hibridación** según *Lev Manovich* se refiere a la combinación y mezcla de diferentes medios y prácticas para crear nuevas formas de expresión digital. Esta hibridación tiene un impacto significativo en la información, la comunicación y el entorno digital, impulsando la multimodalidad, la interactividad, la personalización y la innovación en la manera en que se presenta y se interactúa con el contenido en el mundo digital. 
+
+> *"Los medios híbridos implican la combinación de diferentes elementos mediáticos en una forma nueva e integrada, que permite nuevas formas de presentar e interactuar con la información." (Manovich, 2001)* 
+
+En otras palabras, la hibridación implica la combinación de elementos de distintos medios (como texto, imagen, video, audio, etc.) en nuevas configuraciones que no pertenecen a ningún medio específico, sino que integran características de varios.
+
 Para poder entender bien la hibridación, tenemos que tener clara la diferencia entre la hibridación y el concepto de multimedia. Un elemento multimedia nos permite disfrutar, desde una misma interfaz, de elementos de diferente origen, pero sin que estos estén necesariamente fusionados; cada uno se consume de manera individual.
 
-Por otro lado, la hibridación de medios, según Lev Manovich *"se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013)* o dicho de manera sintética es *“el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos" (Manovich, 2013)*. Por lo que, la hibridación va más allá de simplemente agrupar varios tipos de medios, implica una fusión en la que los elementos de diferentes medios se combinan para crear un nuevo medio con propiedades y capacidades distintas a las de sus componentes originales.
+Por otro lado, la hibridación de medios, según Lev Manovich *"se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios." (Manovich, 2013)* o dicho de manera sintética es *“el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos" (Manovich, 2013)*. Por lo que, la hibridación va más allá de simplemente agrupar varios tipos de medios, implica una fusión en la que los elementos de diferentes medios se combinan para crear un nuevo medio con propiedades y capacidades distintas a las de sus componentes originales.
 
 
 ## Re-descubriendo la hibridacion: ClassCraft
@@ -45,8 +49,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
 * <sup>1</sup>Wikipedia contributors. (s. f.). Classcraft. En Wikipedia. [Consulta: 16/05/2024]. Disponible en: [https://es.wikipedia.org/wiki-Classcraft](https://es.wikipedia.org/wiki/Classcraft)
+* Manovich, Lev. (2001). *El lenguaje de los nuevos medios*. Disponible en: [https://uea1arteycomunicacion.wordpress.com/wp-content/uploads/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf]
+* 
 
 
 ----
