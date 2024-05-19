@@ -63,9 +63,17 @@ El juego en general favorece un ambiente positivo para la sociabilidad. Mediante
 
 ----
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: TikTok
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![TikTok](https://camo.githubusercontent.com/ce963fc15dd4cbdb701f242e9a20d116f6047d4e733b4709f7e8868eaed04d5d/68747470733a2f2f6b69746469676974616c2e6f6e6c696e652f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f30392f74696b2d746f6b2e6a706567)
+
+
+Actualmente, las redes sociales acostumbran a introducir diversos tipos de medios en un mismo espacio, específicamente TikTok presenta diversos elementos que de forma conjunta generan un nuevo contenido coherente entre sí.
+
+En esta popular aplicación los usuarios pueden crear vídeos a partir de un vídeo completo, imágenes, clips... hasta un total de 60 segundos de vídeo, a este vídeo se le añade una música de fondo, junto con un título y una descripción del vídeo. Además, a esta base se le puede aplicar filtros, efectos especiales, herramientas de sincronización labial, texto... La experiencia de reproducción del vídeo fusiona diversos elementos de diferentes naturalezas para ser reproducidas en conjunto, es decir, todas tienen un sentido individual, pero se unifican (hibridan) para crear una experiencia con un objetivo global. El contenido está muy concentrado y elaborado de una forma que resulta muy llamativa. El comienzo y fin de la reproducción del vídeo y de todos sus elementos también van de la mano, en la sección "para ti" (la sección principal de Tik Tok), basta con "scrollear" hacia abajo para pasar de un vídeo a otro y hacer que la música, el vídeo, la descripción... cambian todas en conjunto en la "feed".
+
+La hibridación y el conjunto de diversos elementos sobreestimulantes en TikTok ha llegado inclusive a resultar problemática, en la reproducción de los vídeos se puede usar música acelerada, varios vídeos en un mismo vídeo, una imagen y un vídeo en conjunto... Este formato audiovisual conjuga, por ejemplo, un clip de una serie con un vídeo de una manualidad, generando que el cerebro se enfoque en ambos videos y esté en definitiva, sobreestimulado.
+
 
 
 ### Referencias y Bibliografía
