@@ -27,6 +27,10 @@ Para poder entender bien la hibridación, tenemos que tener clara la diferencia 
 
 Por otro lado, la hibridación de medios, según Lev Manovich *“se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013)* o dicho de manera sintética es *“el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos” (Manovich, 2013)*. Por lo que, la hibridación va más allá de simplemente agrupar varios tipos de medios, implica una fusión en la que los elementos de diferentes medios se combinan para crear un nuevo medio con propiedades y capacidades distintas a las de sus componentes originales.
 
+_Hay un cruce teórico entre la multimedia y la hibridación, la multimedia incluye los primeros elementos híbridos de la tecnología, les da la primera forma, es un paso hacia una nueva constitución de los medios que realmente es mucho más radical y revolucionaria que la cohabitación de diferentes tipos de medios. (Adell )_
+
+La hibridación de los medios es un proceso que "amenaza" la constitución de cada uno de los elementos por separado, el texto no se entiende igual desde que lo podemos manipular digitalmente más allá de la tipografía, lo mismo ocurre con las imágenes y el vídeo, la convivencia entre el vídeo (editado), las imágenes (modificadas) y el texto superpuesto, genera un entorno experiencial totalmente diferente y construido sobre unas técnicas de software que permiten una actuación global sobre diferentes tipos de datos .
+
 
 ## Re-descubriendo la hibridacion: ClassCraft
 
@@ -34,7 +38,7 @@ Por otro lado, la hibridación de medios, según Lev Manovich *“se popularizó
 
 
 En primer lugar, para entender este caso de hibridación, tenemos que saber de qué estamos hablando:
->_**Classcraft** es una aplicación web creada por el canadiense *Shawn Young*, que permite a los profesores dirigir un juego de rol en el que sus alumnos encarnan diferentes personajes,.<sup>1</sup>_
+>_**Classcraft** es una aplicación web creada por el canadiense *Shawn Young*, que permite a los profesores dirigir un juego de rol en el que sus alumnos encarnan diferentes personajes,. (Wikipedia contributors)_
 
 Esta aplicación tiene el objetivo de generar un entorno lúdico para desarrollar clases dinámicas e incrementar la motivación intrínseca de los alumnos. Una de las ventajas más inmediatas que se obtienen al utilizar esta plataforma en el aula, es el visible e inmediato incremento de la motivación de los alumnos hacia las clases, además de que favorece extraordinariamente su autorregulación.
 
@@ -78,9 +82,13 @@ En esta popular aplicación los usuarios pueden crear vídeos a partir de un ví
 
 Por otro lado, la mayoría de veces se trata de diversos elementos visuales sobrepuestos entre sí con la pantalla del móvil como único limitante, así como se usa música de fondo que no tiene relación (o sí, si se trata de un vídeo con el audio original, por ejemplo) con el vídeo. En esta red social, cada elemento funciona como el aceite que engrasa el motor para hacer que el conjunto del contenido funcione, todos tienen un contenido individual, pero están integrados en el mismo vídeo y conviven entre sí, aunque sus contenidos no tienen que estar necesariamente relacionados.
 
-En definitiva, el contenido en TikTok se integra mediante un vídeo, el cual es un elemento común que integra todos los demás elementos, como el texto superpuesto, otras imágenes, un audio en relación al contenido del propio vídeo, esta manera de consumir contenido "fusionado" ha hecho triunfar esta red social hasta situarla entre una de las más consumidas en el mercado mundial, pero a su vez la forma de fusionar estos contenidos ha resultado tan llamativa y "efectiva" que ha traído consigo problemas de sobreestimulación en algunos de sus consumidores.
 
 > *“En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado.” (Adell)*
+
+Por tanto, la diferencia clave entre la multimedia y la hibridación de los medios radica en la relación que se produce entre los diferentes componentes que los forman; en las técnicas de software que los hacen posibles y, al fin y al cabo, en cómo transmiten la experiencia al usuario, mediante una suma independiente de componentes, o a través de un componente común que integra todos los elementos.
+
+En definitiva, el contenido en TikTok se integra mediante un vídeo, el cual es un elemento común que integra todos los demás elementos, como el texto superpuesto, otras imágenes, un audio en relación al contenido del propio vídeo, esta manera de consumir contenido "fusionado" ha hecho triunfar esta red social hasta situarla entre una de las más consumidas en el mercado mundial, pero a su vez la forma de fusionar estos contenidos ha resultado tan llamativa y "efectiva" que ha traído consigo problemas de sobreestimulación en algunos de sus consumidores.
+
 
 ----
 
@@ -90,10 +98,12 @@ Nos hemos puesto las gafas de *Manovich* y hemos intentado analizar cada uno de 
 
 En conclusión, podemos observar como todos los medios digitales tienden progresivamente a la hibridación, ya sea que el hilo conductor del medio sea el audio o el vídeo la hibridación acaba resultando en aplicaciones, contenidos audiovisuales, páginas webs... mucho más creativos, funcionales y completos, gracias a la capacidad de integrar en ellos distintos tipos de elementos digitales, este proceso amenaza a la consumición de estos medios por separado, consigue generar una experiencia completamente diferente a la consumición de los elementos de forma individual, ya que cada uno de estos elementos tiene una función de valor que permite conseguir una experiencia global diferente a la experimentación de estos elementos por separado.
 
+----
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
-* <sup>1</sup>Wikipedia contributors. (s. f.). Classcraft. En Wikipedia. [Consulta: 16/05/2024]. Disponible en: [https://es.wikipedia.org/wiki-Classcraft](https://es.wikipedia.org/wiki/Classcraft)
+* Wikipedia contributors. (s. f.). Classcraft. En Wikipedia. [Consulta: 16/05/2024]. Disponible en: [https://es.wikipedia.org/wiki-Classcraft](https://es.wikipedia.org/wiki/Classcraft)
 * Manovich, Lev. (2001). *El lenguaje de los nuevos medios*. Disponible en: [https://uea1arteycomunicacion.wordpress.com/wp-content/uploads/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf]
 * Ludenspedagogias. [Consulta: 18/05/2024]. Disponible en: [https://ludenspedagogias.wordpress.com/2018/08/24/que-es-classcraft-y-cuales-son-sus-beneficios-para-la-educacion/]
 * Adell, Ferran. *Remediación, multimedia e hibridación de los medios*. UOC [en línea]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
